@@ -1,0 +1,4 @@
+[submodule "AlessandroSkab/demo-contabilita-italiana-Odoo-14"]
+	path = AlessandroSkab/demo-contabilita-italiana-Odoo-14
+	url = git@github.com:AlessandroSkab/demo-contabilita-italiana-Odoo-14.git
+	branch = main
