@@ -2,3 +2,8 @@
 	path = AlessandroSkab/demo-contabilita-italiana-Odoo-14
 	url = git@github.com:AlessandroSkab/demo-contabilita-italiana-Odoo-14.git
 	branch = main
+
+[submodule "masimassimo/pos_scontrino_testo_rch"]
+	path = masimassimo/pos_scontrino_testo_rch
+	url = git@github.com:masimassimo/pos_scontrino_testo_rch.git
+	branch = main
