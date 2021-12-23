@@ -7,3 +7,8 @@
 	path = masimassimo/pos_scontrino_testo_rch
 	url = git@github.com:masimassimo/pos_scontrino_testo_rch.git
 	branch = main
+
+[submodule "AlessandroSkab/afe"]
+	path = AlessandroSkab/afe
+	url = git@github.com:AlessandroSkab/afe.git
+	branch = main
