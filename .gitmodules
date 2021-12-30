@@ -19,3 +19,8 @@
 	path = AlessandroSkab/planetHoreca
 	url = git@github.com:AlessandroSkab/planetHoreca.git
 	branch = main
+
+[submodule "AlessandroSkab/testPH"]
+	path = AlessandroSkab/testPH
+	url = git@github.com:AlessandroSkab/testPH.git
+	branch = main
