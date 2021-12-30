@@ -13,8 +13,3 @@
 	url = git@github.com:AlessandroSkab/afe.git
 	branch = main
 
-
-[submodule "AlessandroSkab/abc_x_planethoreca"]
-	path = AlessandroSkab/abc_x_planethoreca
-	url = git@github.com:AlessandroSkab/abc_x_planethoreca.git
-	branch = main
