@@ -1,10 +1,5 @@
 
 
-[submodule "ABC-Strategie-GitHub/abc_server-ux"]
-	path = ABC-Strategie-GitHub/abc_server-ux
-	url = git@github.com:ABC-Strategie-GitHub/abc_server-ux.git
-	branch = main
-
 [submodule "ABC-Strategie-GitHub/abc_contabilita_italiana"]
 	path = ABC-Strategie-GitHub/abc_contabilita_italiana
 	url = git@github.com:ABC-Strategie-GitHub/abc_contabilita_italiana.git
