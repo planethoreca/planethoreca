@@ -19,3 +19,8 @@
 	path = ABC-Strategie-GitHub/abc_mai_pos_lotnumer_selection
 	url = git@github.com:ABC-Strategie-GitHub/abc_mai_pos_lotnumer_selection.git
 	branch = main
+
+[submodule "ABC-Strategie-GitHub/abc_purchase_order_line_packaging_qty"]
+	path = ABC-Strategie-GitHub/abc_purchase_order_line_packaging_qty
+	url = git@github.com:ABC-Strategie-GitHub/abc_purchase_order_line_packaging_qty.git
+	branch = main
