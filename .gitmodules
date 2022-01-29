@@ -29,3 +29,8 @@
 	path = ABC-Strategie-GitHub/abc_bi_pos_stock
 	url = git@github.com:ABC-Strategie-GitHub/abc_bi_pos_stock.git
 	branch = main
+
+[submodule "ABC-Strategie-GitHub/abc_printnode_base"]
+	path = ABC-Strategie-GitHub/abc_printnode_base
+	url = git@github.com:ABC-Strategie-GitHub/abc_printnode_base.git
+	branch = main
