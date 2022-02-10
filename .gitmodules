@@ -39,3 +39,8 @@
 	path = ABC-Strategie-GitHub/abc_moduli_stampa_ph
 	url = git@github.com:ABC-Strategie-GitHub/abc_moduli_stampa_ph.git
 	branch = main
+
+[submodule "ABC-Strategie-GitHub/abc_connettore_prestashop"]
+	path = ABC-Strategie-GitHub/abc_connettore_prestashop
+	url = git@github.com:ABC-Strategie-GitHub/abc_connettore_prestashop.git
+	branch = main
